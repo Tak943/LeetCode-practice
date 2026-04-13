@@ -1,5 +1,6 @@
 # 1768. Merge Strings Alternately
 # difficulty: Easy
+# On my own?: no
 
 # approaching
 1. preparing an empty array8res[].
